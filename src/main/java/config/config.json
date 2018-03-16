@@ -1,0 +1,9 @@
+{
+  "baseUrl":"https://swapi.co/api/",
+  "planets":"planets/",
+  "spaceships":"spaceships/",
+  "vehicles":"vehicles",
+  "people":"people/",
+  "films":"films/",
+  "species":"sepcies/"
+}
